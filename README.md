@@ -1,78 +1,115 @@
-<h1 align="center">Hi, I'm Alif Hosen 👋</h1>
-<h3 align="center">AI Driven Full Stack Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  I build modern, scalable web applications powered by AI — combining full-stack engineering with intelligent, automation-driven solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alif+Hosen;AI+Driven+Full+Stack+Developer;I+build+intelligent+web+applications" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Integration-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" />
 </p>
 
-<br>
+</div>
 
-### 🚀 About Me
+---
 
-- 🔭 Currently building **full-stack web apps** integrated with AI tools
-- 🧠 Exploring **LLMs, LangChain & OpenAI APIs** for real-world products
-- 🌱 Always learning new tech to build smarter, faster applications
-- 💬 Ask me about React, Node.js, MongoDB, or AI integrations
-- ⚡ Fun fact: I love turning ideas into working products, fast
+### 👨‍💻 About Me
 
-<br>
+I'm a **Full-Stack Web Developer** who blends modern web engineering with **AI-driven automation** to build fast, scalable, and intelligent products.
+
+- 🔭 Currently building **full-stack apps powered by LLMs**
+- 🧠 Exploring **LangChain, OpenAI APIs & RAG pipelines** for real-world use cases
+- 🌱 Constantly leveling up on system design & AI tooling
+- 💬 Ask me about **React, Node.js, MongoDB**, or **AI integrations**
+- ⚡ Fun fact: I love turning raw ideas into shipped products — fast
+
+---
 
 ### 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
 **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
+
+</td>
+<td valign="top" width="50%">
 
 **Database**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 **AI / ML**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
-<br>
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifhosen26&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifhosen26&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=alifhosen26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alifhosen26&theme=tokyonight&hide_border=true" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifhosen26&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
 
 ### 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/alifhosen26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your other links below -->
+  <!-- Add your other links below and remove the comment markers -->
   <!--
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   -->
 </p>
 
-<br>
-
-<p align="center"><i>Thanks for visiting my profile! ✨</i></p>
+<div align="center">
+<i>Thanks for stopping by — let's build something intelligent together ✨</i>
+</div>
